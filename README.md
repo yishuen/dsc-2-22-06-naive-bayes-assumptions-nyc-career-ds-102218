@@ -7,7 +7,7 @@ Naive Bayes classifier is a simple yet powerful algorithm for the classification
 You will be able to:
 * Understand different flavors of Naive Bayes in terms of distributions of underlying data
 * Explain the i.i.d assumption and how it works with Naive Bayes
-* Discuss and understand some key use cases of Naive Bayes Classifier. 
+* Discuss and understand some key use cases of Naive Bayes Classifier
 
 
 ## Types of Naive Bayes Algorithm
